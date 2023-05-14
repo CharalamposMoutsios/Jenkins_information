@@ -34,6 +34,8 @@ Before getting started, make sure you have the following:
      - Access build artifacts and related information.
      - Navigate and analyze pipeline syntax with code suggestions and validation.
 
+
+
 5. Configure Jenkins pipelines:
    - Install the Jenkins Pipeline Syntax extension in VS Code.
    - Access the extension through the command palette (Ctrl+Shift+P).
@@ -49,5 +51,4 @@ By following these steps, you can leverage the Jenkins extensions in Visual Stud
 
 Explore the features and capabilities provided by the Jenkins extension and the Jenkins Pipeline Syntax extension to streamline your development, testing, and deployment processes.
 
-Happy coding!
 
